@@ -1,3 +1,8 @@
+# Instructions
+To set up - yarn install in each of the api and app folders, and then yarn start for each to get them both up and running.  
+to test: yarn test
+
+# ---- Takehome Assignment details----- 
 # Takehome Assignment
 ## Goal
 Create a React frontend powered by the given Node.js backend that allows users to view, create, and update patients and prescriptions. There are two groups of users that will interact with this tool, as outlined below:
