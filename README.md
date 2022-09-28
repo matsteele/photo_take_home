@@ -2,6 +2,11 @@
 To set up - yarn install in each of the api and app folders, and then yarn start for each to get them both up and running.  
 to test: yarn test
 
+
+![Screen Shot 2022-09-28 at 2 33 14 AM](https://user-images.githubusercontent.com/16779479/192705175-78dd91f6-e2f4-45d7-ae62-7e488baa6f3b.png)
+
+
+
 # ---- Takehome Assignment details----- 
 # Takehome Assignment
 ## Goal
